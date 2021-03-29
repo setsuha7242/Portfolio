@@ -6,7 +6,7 @@
 
 ## 研究会で参加したプロジェクト・チーム
 - 競技プログラミング 
-    - Atcoder　[マイページ]((https://atcoder.jp/users/Tomoe6))
+    - Atcoder　[マイページ](https://atcoder.jp/users/Tomoe6)
 - 機械学習
     - 班員がそれぞれの興味がある機械学習に関係のある技術ついて学習し、持ち回りで学習した内容について発表した
 - webアプリ開発

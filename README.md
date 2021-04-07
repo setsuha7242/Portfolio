@@ -36,6 +36,11 @@
     - Unityで砂のように消えるShaderを作成した
 - **3Dモデリング**
     - Blenderを使いキャラクターモデルの作成に挑戦した
+    ![](./material/Blender_F.png)
+    ![](./material/Blender_S.png)
+    ![](./material/Blender_B.png)
+
+
 - **CHIMERAND** [配布URL(Google Drive)](https://drive.google.com/drive/u/0/folders/11UyGX6TNc5eWUzLs7o0QXUKfu4GE-4nQ)
     - 部内ハッカソンでチームでUnityゲームを作成した
     - メインプログラマーを担当
